@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerPath Analytics
 
 **Employee Career Progression, Career Guidance & Workforce Planning**
@@ -72,3 +73,6 @@ CareerPath-Analytics/
 - The data is synthetic and does not establish real-world predictive validity.
 - Do not use this classroom project for individual employment decisions.
 - Observed associations do not establish causation.
+=======
+# CareerPath-Analytics-Starter
+>>>>>>> 6c66d1bd01d474c8aaa8b6732d287e9687dbf684
