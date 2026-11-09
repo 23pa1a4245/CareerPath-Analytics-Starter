@@ -1,0 +1,14 @@
+CAREERPATH ANALYTICS — DARK DASHBOARD UPGRADE
+
+SAFE UPGRADE STEPS
+1. In VS Code, open your existing CareerPath-Analytics-Starter folder.
+2. Make a backup copy of your current app.py named app_backup.py.
+3. Extract this ZIP somewhere temporary.
+4. Copy the upgraded app.py from the extracted CareerPath-Analytics-Starter folder into your existing project folder, replacing app.py.
+5. Do NOT delete hr_data.csv or the models folder. Keep your existing trained model files.
+6. In the VS Code terminal, stop Streamlit with Ctrl+C if it is running.
+7. Run: python -m streamlit run app.py
+8. Open http://localhost:8501 and test all five sidebar pages.
+
+The model trainer and requirements are included for reference, but you do not need to retrain the model for this visual upgrade.
+The dashboard remains an educational prototype using a synthetic/static dataset.
